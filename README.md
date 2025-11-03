@@ -2,7 +2,7 @@
 
 A sleek, responsive Kanban board built with React for intuitive task management and agile workflow visualization. Whether you're sprint planning, backlog grooming, or organizing personal goals—this board makes productivity feel effortless.
 
-![Kanban Board Preview](https://raw.githubusercontent.com/Bhaveshpatil44/ReactKanbanBoard/main/public/kanban-preview.png)
+
 
 ---
 
@@ -17,7 +17,7 @@ A sleek, responsive Kanban board built with React for intuitive task management 
 ---
 ## UI 
 > 📌 A clean, responsive Kanban board UI with draggable tasks
-![Kanban Board Preview](https://raw.githubusercontent.com/Bhaveshpatil44/ReactKanbanBoard/main/kanban-preview.png.png)
+![Kanban Board Preview](public/kanban-preview.png)
 ## 📦 Tech Stack
 
 | Frontend | State Management | Styling | Build Tools |
